@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    border: 1px solid #5f9341;
+    height: 30px;
+    
+
+}
+
+button {
+    margin-top: 5px;
+    background-color: #317a07;  
+    padding: 10px 20px;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid #317a07;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#d-btn {
+    background-color: transparent;
+    color: #317a07;
+}
+
+ul {
+    padding: 9px 0px;
+}
+
+li {
+    list-style: none;
+    padding-bottom: 7px;
+}
+
+li a {
+    color: #317a07;
+}
